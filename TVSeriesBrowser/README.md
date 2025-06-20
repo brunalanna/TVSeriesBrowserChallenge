@@ -87,3 +87,7 @@ Cmd + U
 - [x] Favorite badge shown in detail and list
 - [ ] PIN lock (not implemented)
 - [ ] FaceID/TouchID (not implemented)
+
+## Contact Info
+
+brunamoreiralanna@gmail.com
